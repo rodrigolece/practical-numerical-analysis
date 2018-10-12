@@ -5,4 +5,5 @@ This repository holds part of the content of the course Practical Numerical Anal
 Michealmas 2018
 
 Course lecturer: Kathryn Gillow
+
 TA: Rodrigo Leal Cervantes
